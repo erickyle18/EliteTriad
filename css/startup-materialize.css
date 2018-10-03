@@ -2313,6 +2313,10 @@ img {
   border: 0;
 }
 
+.theone {
+  width:380px;
+}
+
 /**
  * Correct overflow not hidden in IE 9/10/11.
  */
@@ -9473,6 +9477,7 @@ button.picker__today:focus, button.picker__clear:focus, button.picker__close:foc
   transition: -webkit-transform .2s;
   transition: transform .2s;
   transition: transform .2s, -webkit-transform .2s;
+  width: 480px;
 }
 
 .clients .client .title,
@@ -11644,8 +11649,8 @@ nav.navbar ul a:hover {
 
 .header .header-wrapper h1 {
   margin: 1rem 0;
-  font-weight: 600;
-  font-size: 6rem;
+  font-weight: 900;
+  font-size: 2rem;
   text-transform: uppercase;
 }
 
