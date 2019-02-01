@@ -43,8 +43,6 @@ code, pre {
   overflow: visible;
 }
 
-
-
 .header {
   font-weight: 300;
 }
@@ -247,10 +245,4 @@ a.button-collapse.top-nav.full {
 }
 .black .pricing-table {
   color: #eee;
-}
-
-/* Custom styling */
-.servicePic{
-  border-radius: 10px;
-  border: solid grey 1px;
 }
