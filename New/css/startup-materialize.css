@@ -7,9 +7,8 @@
  */
 
 /* start custom css */
-.footer-logo {
+.page-footer .materialize-logo {
   margin-top: 2px;
-  width: 200px;
 }
 /* end custom css  */
 
@@ -12055,9 +12054,9 @@ textarea.materialize-textarea + label {
   margin: 0;
 }
 
-/* .page-footer .materialize-logo {
+.page-footer .materialize-logo {
   margin-top: 2px;
-} */
+}
 
 .page-footer p {
   margin: 5px 0;
